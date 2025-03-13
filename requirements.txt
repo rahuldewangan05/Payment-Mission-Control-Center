@@ -1,0 +1,11 @@
+pandas
+numpy
+sqlite3  
+datetime  
+random  
+Faker
+matplotlib
+seaborn
+scipy
+streamlit
+plotly
