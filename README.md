@@ -67,20 +67,6 @@ The Payment Mission Control Center is a sophisticated dashboard application desi
    pip install -r requirements.txt
    ```
 
-### Dependencies
-Create a `requirements.txt` file with the following contents:
-
-```
-streamlit>=1.18.0
-pandas>=1.4.0
-numpy>=1.22.0
-faker>=13.0.0
-plotly>=5.6.0
-scipy>=1.8.0
-matplotlib>=3.5.0
-seaborn>=0.11.2
-```
-
 ## 🚦 Running the Project
 
 1. Generate synthetic payment data:
